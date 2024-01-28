@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ωμεν
+ *
+ */
+module projproj {
+}
